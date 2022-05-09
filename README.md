@@ -41,7 +41,8 @@ Copyright (C) 2020, 2022 [nfitzen](https://github.com/nfitzen)
 
 This datapack is licensed under the [Apache License 2.0](LICENSE).
 
-[Load][Lantern Load] is licensed under [0BSD][Load License].
+[Load][Lantern Load] copyright (C) 2020-2021 Lue,
+licensed under [0BSD][Load License].
 
 [Load License]: https://github.com/LanternMC/load/tree/master/LICENSE
 
