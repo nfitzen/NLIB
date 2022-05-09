@@ -2,7 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: NLIB
 Upstream-Contact: nfitzen <https://github.com/nfitzen>
 Source: https://github.com/nfitzen/NLIB
-License: Apache-2.0 AND 0BSD
+License: Apache-2.0 AND CC0-1.0
 
 # Sample paragraph, commented out:
 #
@@ -10,7 +10,7 @@ License: Apache-2.0 AND 0BSD
 # Copyright: $YEAR $NAME <$CONTACT>
 # License: ...
 
-Files: src/data/*.json
+Files: src/data/nlib/*.json src/data/load/*.json
 Copyright: (C) 2022 nfitzen <https://github.com/nfitzen>
 License: Apache-2.0
 

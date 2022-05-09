@@ -39,7 +39,7 @@ to clone the repo, and then run `beet build` to build.
 
 Copyright (C) 2020, 2022 [nfitzen](https://github.com/nfitzen)
 
-This datapack is licensed under the [Apache License 2.0](LICENSE).
+This datapack, as a whole, is licensed under the [Apache License 2.0](LICENSE).
 
 [Load][Lantern Load] copyright (C) 2020-2021 Lue,
 licensed under [0BSD][Load License].
@@ -47,5 +47,12 @@ licensed under [0BSD][Load License].
 [Load License]: https://github.com/LanternMC/load/tree/master/LICENSE
 
 This README is (C) 2022 [nfitzen](https://github.com/nfitzen).
+
+Some files are marked with [CC0 1.0], though not in compiled form.
+
+See individual files for more information if you're in source form.
+
+If you're viewing this in compiled form (i.e., as a zipped/built datapack),
+you can find a copy of the source at <https://github.com/nfitzen/NLIB>.
 
 [Lantern Load]: https://github.com/LanternMC/load
