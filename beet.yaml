@@ -6,8 +6,10 @@ author: nfitzen
 
 data_pack:
     load: ["src", "libs/load"]
-    description: "NLIB \u00A9 2020, 2022 nfitzen (Apache-2.0)\n\
+    description: "Basic stuff (not guaranteed) to make your life easier.\n\
+                  NLIB \u00A9 2020, 2022 nfitzen (Apache-2.0)\n\
                   Load \u00A9 2020-2021 Lue (0BSD)"
+    pack_format: 8
     render:
         functions:
             - "nlib*:*"
