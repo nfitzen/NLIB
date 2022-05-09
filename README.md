@@ -43,7 +43,7 @@ This datapack is licensed under the [Apache License 2.0](LICENSE).
 
 [Load][Lantern Load] is licensed under [0BSD][Load License].
 
-[Load License](https://github.com/LanternMC/load/tree/master/LICENSE).
+[Load License](https://github.com/LanternMC/load/tree/master/LICENSE)
 
 This README is (C) 2022 [nfitzen](https://github.com/nfitzen).
 
