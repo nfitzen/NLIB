@@ -44,7 +44,7 @@ This datapack, as a whole, is licensed under the [Apache License 2.0](LICENSE).
 [Load][Lantern Load] copyright (C) 2020-2021 Lue,
 licensed under [0BSD][Load License].
 
-[Load License]: https://github.com/LanternMC/load/tree/master/LICENSE
+[Load License]: https://github.com/LanternMC/load/tree/master/LICENSE "BSD Zero Clause License"
 
 This README is (C) 2022 [nfitzen](https://github.com/nfitzen).
 
@@ -56,3 +56,5 @@ If you're viewing this in compiled form (i.e., as a zipped/built datapack),
 you can find a copy of the source at <https://github.com/nfitzen/NLIB>.
 
 [Lantern Load]: https://github.com/LanternMC/load
+
+[CC0 1.0]: https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons Zero 1.0 Universal"
