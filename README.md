@@ -33,7 +33,6 @@ to clone the repo, and then run `beet build` to build.
 
 [beet]: https://github.com/mcbeet/beet
 [mecha]: https://github.com/mcbeet/mecha
-[Lantern Load]: https://github.com/LanternMC/load
 
 ## Copyright
 
@@ -41,6 +40,10 @@ Copyright (C) 2020, 2022 [nfitzen](https://github.com/nfitzen)
 
 This datapack is licensed under the [Apache License 2.0](LICENSE).
 
-[Load](libs/load/) is licensed under [0BSD](libs/load/LICENSE).
+[Load][Lantern Load] is licensed under [0BSD][Load License].
+
+[Load License](https://github.com/LanternMC/load/tree/master/LICENSE).
 
 This README is (C) 2022 [nfitzen](https://github.com/nfitzen).
+
+[Lantern Load]: https://github.com/LanternMC/load
