@@ -1,0 +1,41 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: (C) 2022 nfitzen <https://github.com/nfitzen<
+
+version: 0.1.0
+author: nfitzen
+
+data_pack:
+    load: ["src", "libs/load"]
+    description: "NLIB \u00A9 2020, 2022 nfitzen (Apache-2.0)\n\
+                  Load \u00A9 2020-2021 Lue (0BSD)"
+    render:
+        functions:
+            - "nlib*:*"
+
+require:
+    - mecha.contrib.nesting
+    - mecha.contrib.relative_location
+
+pipeline:
+    - mecha
+    - beet.contrib.copy_files
+    - beet_nlib.gen_set_size
+
+output: "out"
+
+meta:
+    copy_files:
+        data_pack:
+            ".":
+                - "README.md"
+                - "LICENSE"
+                - "LICENSES/"
+
+    mecha:
+        multiline: true
+
+    uuid:
+        nlib:
+            worldborder_center:
+                hex: "ad7a10d4-7d3c-4f43-86bb-da872d12bb79"
+                data: "[I;-1384509228,2101104451,-2034509177,756202361]"

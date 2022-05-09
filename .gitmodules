@@ -1,0 +1,3 @@
+[submodule "libs/load"]
+	path = libs/load
+	url = https://github.com/LanternMC/load.git

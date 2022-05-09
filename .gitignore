@@ -1,0 +1,18 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022 nfitzen <https://github.com/nfitzen>
+
+# Minecraft commands
+
+.beet_cache/
+out/
+
+# Python
+
+.venv/
+__pycache__/
+
+# GNU/Linux trash
+.Trash-*
+
+# macOS
+.DS_Store

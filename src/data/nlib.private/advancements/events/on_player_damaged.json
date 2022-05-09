@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "damaged": {
+            "trigger": "minecraft:entity_hurt_player"
+        }
+    },
+    "rewards": {
+        "function": "nlib.private:tags/events/on_player_damaged"
+    }
+}
