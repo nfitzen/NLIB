@@ -8,7 +8,8 @@ data_pack:
     load: ["src", "libs/load"]
     description: "Basic stuff (not guaranteed) to make your life easier.\n\
                   NLIB \u00A9 2020, 2022 nfitzen (Apache-2.0)\n\
-                  Load \u00A9 2020-2021 Lue (0BSD)"
+                  Load \u00A9 2020-2021 Lue (0BSD)\n\
+                  License texts in datapack's LICENSES/ folder."
     pack_format: 8
     render:
         functions:
