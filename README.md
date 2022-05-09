@@ -18,8 +18,8 @@ Features coming soon&trade; include:
 - [x] `#nlib:tick` should avoid `#minecraft:tick` running
       before `#minecraft:load`.
       (See [MC-18739](https://bugs.mojang.com/browse/MC-187539).)
-      
-      - Note that there could be issues with Lantern Load.
+  
+    - Note that there could be issues with Lantern Load.
 
 - [x] Tellraw from list
 - [x] Set worldborder from scoreboard objective/NBT
