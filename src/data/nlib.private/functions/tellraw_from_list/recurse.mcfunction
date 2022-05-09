@@ -1,6 +1,5 @@
-# SPDX-FileCopyrightText: 2020 Nathaniel Fitzenrider <https://github.com/nfitzen>
-#
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2020, 2022 nfitzen <https://github.com/nfitzen>
 
 # function nlib:tellraw_from_list/recurse
 # called from: ./main, as: @s
