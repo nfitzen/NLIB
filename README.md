@@ -18,10 +18,22 @@ Features coming soon&trade; include:
 - [x] `#nlib:tick` should avoid `#minecraft:tick` running
       before `#minecraft:load`.
       (See [MC-18739](https://bugs.mojang.com/browse/MC-187539).)
+      - Note that there could be issues with Lantern Load.
 
 - [x] Tellraw from list
 - [x] Set worldborder from scoreboard objective/NBT
 - [ ] Provide a way to display copyright+license notices with one command.
+
+## Build
+
+Requires [beet] and [mecha]. Contains [Lantern Load] as a dependency.
+
+Run `git clone https://github.com/nfitzen/NLIB.git --recurse-submodules`
+to clone the repo, and then run `beet build` to build.
+
+[beet]: https://github.com/mcbeet/beet
+[mecha]: https://github.com/mcbeet/mecha
+[Lantern Load]: https://github.com/LanternMC/load
 
 ## Copyright
 
