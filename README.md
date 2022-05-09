@@ -48,7 +48,8 @@ licensed under [0BSD][Load License].
 
 This README is (C) 2022 [nfitzen](https://github.com/nfitzen).
 
-Some files are marked with [CC0 1.0], though not in compiled form.
+Some trivial files are marked with [CC0 1.0], though they don't appear
+in compiled form.
 
 See individual files for more information if you're in source form.
 
