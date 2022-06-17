@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: Apache-2.0
-# SPDX-FileCopyrightText: (C) 2020 nfitzen <https://github.com/nfitzen>
+# SPDX-FileCopyrightText: (C) 2020, 2022 nfitzen <https://github.com/nfitzen>
 
 scoreboard objectives add nlib.input dummy
 scoreboard objectives add nlib.tmp dummy

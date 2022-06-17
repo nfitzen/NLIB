@@ -2,15 +2,15 @@
 # SPDX-FileCopyrightText: (C) 2022 nfitzen <https://github.com/nfitzen<
 
 version: 0.1.0
-author: nfitzen
+author: "nfitzen"
+name: "NLIB"
+description: "Basic stuff (not guaranteed) to make your life easier."
 
 data_pack:
     load: ["src", "libs/load"]
+    pack_format: 10
     description: "Basic stuff (not guaranteed) to make your life easier.\n\
-                  NLIB \u00A9 2020, 2022 nfitzen (Apache-2.0)\n\
-                  Load \u00A9 2020-2021 Lue (0BSD)\n\
-                  License texts in datapack's LICENSES/ folder."
-    pack_format: 8
+                  /function nlib:copyright for copr. info."
     render:
         functions:
             - "nlib*:*"
@@ -21,6 +21,7 @@ require:
 
 pipeline:
     - mecha
+    - beet.contrib.installation_advancement
     - beet.contrib.copy_files
     - beet_nlib.gen_set_size
 
@@ -36,6 +37,9 @@ meta:
 
     mecha:
         multiline: true
+
+    installation_advancement:
+        author_skull_owner: "FitzenN"
 
     uuid:
         nlib:
